@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Feel The Tweet</string>
+    <string name="enter_twitter_username_hint">Enter your twitter username</string>
+    <string name="find_caption">Find</string>
+</resources>
